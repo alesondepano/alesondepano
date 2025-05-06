@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Aleson depano<br>I'm currently studying Information Technology major in Web and Mobile Application<br><br>🌱 I’m currently learning c++, html, css <br>📫 How to reach me alesondepano@gmail.com
+Hi 👋, I'm Aleson depano<br>I'm currently studying Information Technology specialization in Web and Mobile Application<br><br>🌱 I’m currently learning c++, html, css <br>📫 How to reach me alesondepano@gmail.com
 
 
 ## 🌐 Socials:
